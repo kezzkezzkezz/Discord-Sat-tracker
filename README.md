@@ -4,7 +4,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/kezzkezzkezz/satellite-tracker-bot?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/kezzkezzkezz/satellite-tracker-bot?style=social)
 
-The Satellite Tracker Bot is a Discord bot that provides information about satellite passes over a specified location. Users can request pass-over data for a given satellite name or NORAD ID and a set of coordinates (latitude and longitude). The bot then retrieves satellite information and calculates the next 24-hour pass-over times in the local time zone of the provided coordinates.
+The Satellite Tracker Bot is a Discord bot that provides information about satellite passes over a specified location. Users can request pass-over data for a given satellite name or NORAD ID and a set of coordinates (latitude and longitude). The bot then retrieves satellite information and calculates the next 24-hour pass times in the local time zone of the provided coordinates.
 
 ## Features
 
