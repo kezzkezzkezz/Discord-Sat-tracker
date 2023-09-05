@@ -47,6 +47,9 @@ bash
     Replace "satellite name or NORAD ID" with the satellite you want to track and "latitude longitude" with the coordinates of the location where you want to track the satellite.
 
     The bot will respond with pass-over times in the local time zone of the provided coordinates.
+    
+![image](https://github.com/kezzkezzkezz/Discord-Sat-tracker/assets/60633244/ca850802-2dbc-4180-a716-5e59a41cefbc)
+
 
 Contributing
 
