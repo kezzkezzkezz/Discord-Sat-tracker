@@ -6,8 +6,9 @@ The Satellite Tracker Bot is a Discord bot that provides information about satel
 ## Features
 
 - Retrieve satellite information based on satellite name or NORAD ID.
-- Calculate and display the next 24-hour passes for the specified location.
+- Calculate and display the next up coming passes for the specified location.
 - Convert pass times to the local time zone of the provided coordinates.
+- Uses Local tz to exclude passes that have already been
 
 ## Prerequisites
 
@@ -16,7 +17,6 @@ Before using the bot, you will need the following:
 - Python 3.x
 - Discord bot token (for running the bot on Discord)
 - N2YO API key (for accessing satellite information)
-
 
 Install the required Python packages:
 
