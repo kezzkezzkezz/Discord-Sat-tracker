@@ -42,13 +42,22 @@ In your Discord server, use the following command to get satellite pass-over dat
 
 bash
 
-    /satellite "satellite name or NORAD ID" "latitude longitude"
+    /satellite "NORAD ID" 
 
-    Replace "satellite name or NORAD ID" with the satellite you want to track and "latitude longitude" with the coordinates of the location where you want to track the satellite.
+    Replace "NORAD ID" with the satellite you want to track
 
     The bot will respond with pass-over times in the local time zone of the provided coordinates.
     
-![image](https://github.com/kezzkezzkezz/Discord-Sat-tracker/assets/60633244/7bc5f78e-36be-4943-92a5-035d6eee2a7a)
+    /userdata set "latitude longitude"
+
+    Replace "latitude longitude" with the coordinates of your location.
+
+    /userdata get 
+
+    This Command will respond with your latitude and longitude saved in a json.
+    
+![image](https://github.com/kezzkezzkezz/Discord-Sat-tracker/assets/60633244/983ab0a3-8295-4af3-af85-d66954a9d436)
+
 
 
 
