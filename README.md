@@ -56,7 +56,8 @@ bash
 
     This Command will respond with your latitude and longitude saved in a json.
     
-![image](https://github.com/kezzkezzkezz/Discord-Sat-tracker/assets/60633244/983ab0a3-8295-4af3-af85-d66954a9d436)
+![image](https://github.com/kezzkezzkezz/Discord-Sat-tracker/assets/60633244/f4c3747c-8398-49b0-98e0-779a392c4b12)
+
 
 
 
